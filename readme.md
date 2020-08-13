@@ -1,5 +1,7 @@
 A function for record run time and memory usage.
 
+`npm install sen_statics`
+
 ## var stMemTime = new statics();
 
 ## stMemTime.register([func1,func2,..], runTimes, showRtnData)
